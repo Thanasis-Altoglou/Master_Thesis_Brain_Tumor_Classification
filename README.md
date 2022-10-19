@@ -21,5 +21,9 @@ At the end of the project, there are several topics which will be clarified and 
 - Evaluate and compare the performance of the final Convolution Neural Network and the VGG16 model using various evaluation metrics such as the learning curves, accuracy, and confusion matrices choosing the best model to deploy in the web application.
 - Develop the front-end of the website using HTML, CSS, and Bootstrap as well as the back-end using Flask framework and Python programming language.
 
+## Results:
+![image](https://user-images.githubusercontent.com/102918064/196649354-8dd853c1-2590-45ef-8cd4-81ccf0ebc98c.png)
+
+
 ## About the dataset.
 A publicly available dataset is used in this research which is found in [Kaggle](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection). This dataset consists of three folders. A folder called ‘no’ which contains 1500 brain MRI images that are not affected by tumor, a ‘yes’ folder with 1500 MRI images which are tumorous, and a ‘pred’ folder with 60 brain MRI images to make final predictions.
