@@ -22,7 +22,14 @@ At the end of the project, there are several topics which will be clarified and 
 - Develop the front-end of the website using HTML, CSS, and Bootstrap as well as the back-end using Flask framework and Python programming language.
 
 ## Results:
-![image](https://user-images.githubusercontent.com/102918064/196649354-8dd853c1-2590-45ef-8cd4-81ccf0ebc98c.png)
+- Approach 1:
+The image below  displays the learning curves of the final model created from the scratch. The model performed very well achieving 98% overall accuracy in brain tumor classification.
+![image](https://user-images.githubusercontent.com/102918064/196651444-2b5de070-cde0-4afd-8646-b5cdd529dd99.png)
+
+- Approach 2:
+The performance of the pre-trained model can be seen in the next figure. The pre-trained model obtained 91% accuracy for brain tumor detection.
+![image](https://user-images.githubusercontent.com/102918064/196654774-cbbc5705-2e9a-463a-95aa-90141e752d65.png)
+
 
 
 ## About the dataset.
