@@ -22,4 +22,4 @@ At the end of the project, there are several topics which will be clarified and 
 - Develop the front-end of the website using HTML, CSS, and Bootstrap as well as the back-end using Flask framework and Python programming language.
 
 ## About the dataset.
-A publicly available dataset is used in this research which is found in (Kaggle)[https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection]. This dataset consists of three folders. A folder called ‘no’ which contains 1500 brain MRI images that are not affected by tumor, a ‘yes’ folder with 1500 MRI images which are tumorous, and a ‘pred’ folder with 60 brain MRI images to make final predictions.
+A publicly available dataset is used in this research which is found in [Kaggle](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection). This dataset consists of three folders. A folder called ‘no’ which contains 1500 brain MRI images that are not affected by tumor, a ‘yes’ folder with 1500 MRI images which are tumorous, and a ‘pred’ folder with 60 brain MRI images to make final predictions.
