@@ -1,0 +1,35 @@
+{% extends "import.html" %} 
+{% block content %}
+
+<center>
+    <br><h2>Brain Tumor Binary Classification Using Deep Learning</h2><br>
+
+    <p><i>Click the button to learn more about brain tumors.</i></p>
+    <div style="text-align: center">
+        <a href="https://en.wikipedia.org/wiki/Brain_tumor" class="btn btn-outline-success" role="button">Click here!</a>
+    </div><br><br>
+
+
+    <form id="upload-file" method="post" enctype="multipart/form-data">
+         <input type="file" name="file" class="btn btn-primary" id="imageUpload" accept=".png, .jpg, .jpeg">
+    </form>
+
+
+    <div class="image-section" style="display:none;">
+         <img id="imagePreview"  class="img-responsive" src="#" style="width:300px;height:300px;"/><br><br>
+         <div>
+            <button type="button" class="btn btn-info btn-lg " id="btn-predict">Predict Image</button>
+         </div>
+    </div>
+
+
+    <div class="loader" style="display:none;"></div>
+
+    
+    <h3 id="result">
+        <span> </span>
+    </h3>
+
+
+</center><br><br>
+{% endblock %}
