@@ -13,10 +13,13 @@ The first research approach that will be used in this project for brain tumor pr
 
 ## Objectives:
 At the end of the project, there are several topics which will be clarified and objectives to be met through the literature review and the practical work. These are as follows;
-• The impact of Computer Vision and Deep Learning applications on the healthcare, especially in accurately detecting tumor in the brain.
-• The main idea behind how convolutional neural networks work to ‘understand’ a brain image well-enough to determine whether a patient has brain tumor.
-• Extract and load the dataset found on Kaggle and perform pre-processing steps to prepare the data for training.
-• Build and train the deep learning models to accurately detect tumor in brain MRI images using TensorFlow framework and keras library.
-• How to prevent the challenge of overfitting during the training phase of the models.
-• Evaluate and compare the performance of the final Convolution Neural Network and the VGG16 model using various evaluation metrics such as the learning curves, accuracy, and confusion matrices choosing the best model to deploy in the web application.
-• Develop the front-end of the website using HTML, CSS, and Bootstrap as well as the back-end using Flask framework and Python programming language.
+- The impact of Computer Vision and Deep Learning applications on the healthcare, especially in accurately detecting tumor in the brain.
+- The main idea behind how convolutional neural networks work to ‘understand’ a brain image well-enough to determine whether a patient has brain tumor.
+- Extract and load the dataset found on Kaggle and perform pre-processing steps to prepare the data for training.
+- Build and train the deep learning models to accurately detect tumor in brain MRI images using TensorFlow framework and keras library.
+- How to prevent the challenge of overfitting during the training phase of the models.
+- Evaluate and compare the performance of the final Convolution Neural Network and the VGG16 model using various evaluation metrics such as the learning curves, accuracy, and confusion matrices choosing the best model to deploy in the web application.
+- Develop the front-end of the website using HTML, CSS, and Bootstrap as well as the back-end using Flask framework and Python programming language.
+
+## About the dataset.
+A publicly available dataset is used in this research which is found in (Kaggle)[https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection]. This dataset consists of three folders. A folder called ‘no’ which contains 1500 brain MRI images that are not affected by tumor, a ‘yes’ folder with 1500 MRI images which are tumorous, and a ‘pred’ folder with 60 brain MRI images to make final predictions.
