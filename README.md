@@ -28,6 +28,7 @@ The image below  displays the learning curves of the final model created from th
 
 - Approach 2:
 The performance of the pre-trained model can be seen in the next figure. The pre-trained model obtained 91% accuracy for brain tumor detection.
+
 ![image](https://user-images.githubusercontent.com/102918064/196654774-cbbc5705-2e9a-463a-95aa-90141e752d65.png)
 
 
