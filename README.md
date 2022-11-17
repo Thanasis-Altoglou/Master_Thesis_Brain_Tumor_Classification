@@ -35,7 +35,7 @@ The performance of the pre-trained model can be seen in the next figure. The pre
 ## Front-end of the application:
 ![Screenshot (165)](https://user-images.githubusercontent.com/102918064/202382406-5f7c2baf-8397-4913-a08a-23e435d93308.png)
 
-# Results:
+## Predictions:
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/102918064/202382504-2417c6e5-7012-4635-bb6b-445784056743.png)
 
